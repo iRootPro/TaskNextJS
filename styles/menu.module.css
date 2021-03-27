@@ -1,0 +1,18 @@
+.wrap {
+    width: 100vw;
+    height: 30px;
+    background-color: #0941b2;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.wrap a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
